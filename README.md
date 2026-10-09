@@ -1,8 +1,8 @@
-### VNQuq
+### thd-y
 
 Explorer of being.
 
-**[EchoGist](https://github.com/VNQuq/echogist)** turns a long recording into a summary you can check.
+**[EchoGist](https://github.com/thd-y/echogist)** turns a long recording into a summary you can check.
 It transcribes locally on the GPU, and every timecode in the summary is matched against the
 transcript. It can also save the recording's audio as an MP3.
 
